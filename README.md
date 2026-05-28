@@ -1,5 +1,7 @@
 # 🚗 Toys & Models — Analyse Commerciale & Logistique (SQL & Power BI)
 
+<img width="1435" height="808" alt="Dashboard Finance Toys and models" src="https://github.com/user-attachments/assets/03e94c30-75bc-4df4-91e7-ba1590679d38" />
+
 ## 📌 Contexte du Projet
 Ce projet simule une mission de conseil en Business Intelligence pour l'entreprise "Toys & Models", un distributeur international de modèles réduits et objets de collection. L'objectif était d'analyser la performance globale de l'entreprise et d'apporter des recommandations stratégiques basées sur la donnée aux directions commerciale, financière et logistique.
 
